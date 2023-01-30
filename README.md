@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a controlar os hábitos.
 
-- [Visite o projeto online](https://renanbr211.github.io/Control-Habits/)
+- [Acesse o Projeto online](https://renanbr211.github.io/Control-Habits/)
 
 ## 🔖 Layout
 
